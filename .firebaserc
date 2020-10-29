@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "thecake",
+    "production": "h2e-wps"
+  }
+}
